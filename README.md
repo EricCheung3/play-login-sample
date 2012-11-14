@@ -15,12 +15,12 @@ will do the job and you can browse to localhost:9000
 
 The application is structured straight forward
 
-/               default, public index page
-/restricted     restricted content, login will be enforced
-/login          the login form
-/logout         triggers the logout
+* /               default, public index page
+* /restricted     restricted content, login will be enforced
+* /login          the login form
+* /logout         triggers the logout
 
 ## Version information
 
-- Play! 2.0.4
-- sbt 0.11.3
+* Play! 2.0.4
+* sbt 0.11.3
