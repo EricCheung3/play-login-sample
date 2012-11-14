@@ -15,10 +15,24 @@ will do the job and you can browse to localhost:9000
 
 The application is structured straight forward
 
-* /               default, public index page
-* /restricted     restricted content, login will be enforced
-* /login          the login form
-* /logout         triggers the logout
+<table>
+  <tr>
+    <td>/</td>
+    <td>default, public index page</td>
+  </tr>
+  <tr>
+    <td>/restricted</td>
+    <td>restricted content, login will be enforced</td>
+  </tr>
+  <tr>
+    <td>/login</td>
+    <td>the login form</td>
+  </tr>
+  <tr>
+    <td>/logout</td>
+    <td>triggers the logout</td>
+  </tr>
+</table>
 
 ## Version information
 
